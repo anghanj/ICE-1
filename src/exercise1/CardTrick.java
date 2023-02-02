@@ -8,7 +8,7 @@ import java.util.Random;
  * It then searches the array of cards for the match to the user's card. 
  * To be used as starting code in Exercise
  *
- * @author Jonty Anghan
+ * @author anghanj
  * @author Jonty Anghan Feb 01, 2023 
  */
 public class CardTrick {
@@ -49,26 +49,23 @@ public class CardTrick {
     /**
      * A simple method to print out personal information. Follow the instructions to 
      * replace this information with your own.
-     * @author Paul Bonenfant Jan 2022
+     * @author Jonty Anghan Feb 01, 2023 
      */
     private static void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is Paul, but you can call me prof, Paul or sir");
+        System.out.println("My name is Jonty Anghan, but you can call me Jonty.");
         System.out.println();
         
-        System.out.println("My career ambitions:");
-        System.out.println("-- Be more active on LinkedIn");
-        System.out.println("-- Have a semester with no violations of academic integrity!");
+        System.out.println("I am now studying in the course software development.");
         System.out.println();
+        System.out.println("-- I am a fond of marvel movies");
         
         System.out.println("My hobbies:");
-        System.out.println("-- Investing");
-        System.out.println("-- Cooking");
-        System.out.println("-- Reading/Watching TV");
-        System.out.println("-- Riding my motorcycle");
+        System.out.println("-- Travelling");
+        System.out.println("-- Photography);
 
         System.out.println();
     }
